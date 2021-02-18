@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Tinder Clone
+
+> A social networking application powered by MERN & deployed using firebase.
+
+## About the Application.
+
+> Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. Once two users have "matched", they can exchange messages.
+
+## Stock
+
+[logo](https://i.dlpng.com/static/png/6184865-this-post-is-a-part-of-tinder-logo-transparent-background-hd-tinder-logo-png-840_771_preview.png)
+
+## Components
+
+- Header
+- TinderCards
+-
+
+## Dependencies
+
+- firebase
+- material-ui
+- react-tinder-card
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
